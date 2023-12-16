@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #7b7b7b;
+  color: #0095dd;
+}
+
+#canvas {
+  border: 2px solid rgb(88, 127, 148);
+  /* width: 1200px;
+  height: 580px; */
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  image-rendering: pixelated;
+}
